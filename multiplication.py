@@ -1,6 +1,6 @@
 x = 3
-y = 9
+y = 4
 z = x * y
-print(z)
+print("this is the result: ", z)
 
 # this code is working succesffuly
